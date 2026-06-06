@@ -27,7 +27,7 @@
 🔹 🤖 Automação para consolidar arquivos de Excel, gerando análise dos dados 
 
 → Automação em Python desenvolvida para eliminar processos manuais, consolidando múltiplos arquivos Excel e gerando análises elaboradas de forma automática.
-
+#
 #### Sobre mim: 
 
 🎓 Graduado em Administração de Empresas 
