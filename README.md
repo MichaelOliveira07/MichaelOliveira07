@@ -18,7 +18,7 @@
 
 
 - **📈 Analisar RFV:** 
-##### A análise RFV (Recência, Frequência e Valor) é uma metodologia de segmentação de clientes que os classifica com base no histórico de compras.
+A análise RFV (Recência, Frequência e Valor) é uma metodologia de segmentação de clientes que os classifica com base no histórico de compras.
 
 
 - #### 🤖 Automação de Relatórios (Excel) com Python | Envio automático por e-mail:
