@@ -3,10 +3,10 @@
 🎯 Profissional com **10 anos de experiência** na manipulação de dados, com foco em análises para a tomada de decisões. Hábil no uso de **Python** no tratamento de dados ETL e automação de processos, **SQL, Power BI** e **Excel**. Possuo perfil dinâmico e proativo, capaz de cumprir prazos e solucionar problemas complexos, aplicando conhecimento técnico em uma organização voltada para a inovação.
 
 
-- ###### 💻 Aqui no GitHub, compartilhei projetos práticos onde aplicar conceitos de:
-- ###### 📊 Análise exploratória e visualização de dados 
-- ###### 📈 Criação de dashboards interativos com Power BI 
-- ###### 🗃️ Integração de dados com SQL e automação com Python
+- ##### 💻 Aqui no GitHub, compartilhei projetos práticos onde aplicar conceitos de:
+- ##### 📊 Análise exploratória e visualização de dados 
+- ##### 📈 Criação de dashboards interativos com Power BI 
+- ##### 🗃️ Integração de dados com SQL e automação com Python
 #
 
 ### 🚀 Tecnologias & Ferramentas
