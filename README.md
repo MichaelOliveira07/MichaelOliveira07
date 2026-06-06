@@ -16,7 +16,8 @@
 
 ### 📂 Projetos em destaque 
 
-- 📈 Analisar RFV: 
+
+- #### 📈 Analisar RFV: 
 
 A análise RFV (Recência, Frequência e Valor) é uma metodologia de segmentação de clientes que os classifica com base no histórico de compras.
 
