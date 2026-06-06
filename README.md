@@ -39,4 +39,4 @@
 - ##### 🎓 Graduado em Administração de Empresas 
 - ##### 🧠 Foco atual: aplicar técnicas de dados para gerar valor em decisões de negócio 
 - ##### 🔍 Buscando oportunidades como Analista de Dados ou Analista de Business Intelligence 
-- ##### 📫 LinkedIn E-mail: olivemic13@yahoo.com
+- ##### 📫 LinkedIn: [!LinkedIn](https://www.linkedin.com/in/michaeldeoliveira/)
