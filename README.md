@@ -9,9 +9,9 @@
 📈 Criação de dashboards interativos com Power BI 
 
 🗃️ Integração de dados com SQL e automação com Python 
-####
-#### 🚀 Tecnologias & Ferramentas
-#### Python Pandas Jupyter Power BI SQL
+
+### 🚀 Tecnologias & Ferramentas
+ Python Pandas Jupyter Power BI SQL
 
 #### 📂 Projetos em destaque 
 
