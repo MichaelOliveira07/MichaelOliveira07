@@ -12,7 +12,7 @@
 
 🚀 Tecnologias & Ferramentas Python Pandas Jupyter Power BI SQL
 
-📂 Projetos em destaque 
+#### 📂 Projetos em destaque 
 
 🔹 📈 Analisar RFV 
 
@@ -26,7 +26,7 @@
 
 → Automação em Python desenvolvida para eliminar processos manuais, consolidando múltiplos arquivos Excel e gerando análises elaboradas de forma automática.
 
-Sobre mim: 
+#### Sobre mim: 
 
 🎓 Graduado em Administração de Empresas 
 
