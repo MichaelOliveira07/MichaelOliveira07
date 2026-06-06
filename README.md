@@ -14,13 +14,17 @@
 🚀 Tecnologias & Ferramentas Python Pandas Jupyter Power BI SQL
 
 📂 Projetos em destaque 
+
 🔹 📈 Analisar RFV 
+
 → A análise RFV (Recência, Frequência e Valor) é uma metodologia de segmentação de clientes que os classifica com base no histórico de compras.
 
 🔹 🤖 Automação de Relatórios (Excel) com Python | Envio automático por e-mail 
+
 → Projeto para otimizar o fluxo de informações comerciais, eliminando o trabalho manual de segmentação e distribuição de dados, garantindo que as informações cheguem aos gestores com agilidade e precisão via e-mail.
 
 🔹 🤖 Automação para consolidar arquivos de Excel, gerando análise dos dados 
+
 → Automação em Python desenvolvida para eliminar processos manuais, consolidando múltiplos arquivos Excel e gerando análises elaboradas de forma automática.
 
 Sobre mim: 
