@@ -9,27 +9,30 @@
 - 🗃️ Integração de dados com SQL e automação com Python
 #
 
-### 🚀 Tecnologias & Ferramentas
+#### 🚀 Tecnologias & Ferramentas
  Python Pandas Jupyter Power BI SQL
+
+#
 
 #### 📂 Projetos em destaque 
 
-🔹 📈 Analisar RFV 
+- 📈 Analisar RFV 
 
 → A análise RFV (Recência, Frequência e Valor) é uma metodologia de segmentação de clientes que os classifica com base no histórico de compras.
 
-🔹 🤖 Automação de Relatórios (Excel) com Python | Envio automático por e-mail 
+- 🤖 Automação de Relatórios (Excel) com Python | Envio automático por e-mail 
 
 → Projeto para otimizar o fluxo de informações comerciais, eliminando o trabalho manual de segmentação e distribuição de dados, garantindo que as informações cheguem aos gestores com agilidade e precisão via e-mail.
 
-🔹 🤖 Automação para consolidar arquivos de Excel, gerando análise dos dados 
+- 🤖 Automação para consolidar arquivos de Excel, gerando análise dos dados 
 
 → Automação em Python desenvolvida para eliminar processos manuais, consolidando múltiplos arquivos Excel e gerando análises elaboradas de forma automática.
+
 #
+
 #### Sobre mim: 
 
 🎓 Graduado em Administração de Empresas 
-
-🧠 Foco atual: aplicar técnicas de dados para gerar valor em decisões de negócio 
-
-🔍 Buscando oportunidades como Analista de Dados ou Analista de Business Intelligence 📫 LinkedIn E-mail: olivemic13@yahoo.com
+- 🧠 Foco atual: aplicar técnicas de dados para gerar valor em decisões de negócio 
+- 🔍 Buscando oportunidades como Analista de Dados ou Analista de Business Intelligence 
+- 📫 LinkedIn E-mail: olivemic13@yahoo.com
