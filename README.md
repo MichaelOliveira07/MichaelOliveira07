@@ -1,4 +1,3 @@
-<!--
 👋 Olá! Eu sou Michael de Oliveira 
 
 🎯 Profissional com 10 anos de experiência na manipulação de dados, com foco em análises para a tomada de decisões. Hábil no uso de Python no tratamento de dados ETL e automação de processos, SQL, Power BI e Excel. Possuo perfil dinâmico e proativo, capaz de cumprir prazos e solucionar problemas complexos, aplicando conhecimento técnico em uma organização voltada para a inovação.
@@ -24,5 +23,3 @@ Sobre mim:
 🎓 Graduado em Administração de Empresas 
 🧠 Foco atual: aplicar técnicas de dados para gerar valor em decisões de negócio 
 🔍 Buscando oportunidades como Analista de Dados ou Analista de Business Intelligence 📫 LinkedIn E-mail: olivemic13@yahoo.com
-
--->
