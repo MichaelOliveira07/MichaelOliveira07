@@ -6,8 +6,11 @@
 💻 Aqui no GitHub, compartilhei projetos práticos onde aplicar conceitos de:
 
 📊 Análise exploratória e visualização de dados 
+
 📈 Criação de dashboards interativos com Power BI 
+
 🗃️ Integração de dados com SQL e automação com Python 
+
 🚀 Tecnologias & Ferramentas Python Pandas Jupyter Power BI SQL
 
 📂 Projetos em destaque 
