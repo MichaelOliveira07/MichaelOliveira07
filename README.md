@@ -9,11 +9,12 @@
 - ##### 🗃️ Integração de dados com SQL e automação com Python
 ---
 ### 🚀 Tecnologias & Ferramentas
- Python Pandas Jupyter Power BI SQL
+
  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
  ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+https://www.google.com/imgres?q=linguagem%20python&imgurl=https%3A%2F%2Fdidatica.tech%2Fwp-content%2Fuploads%2F2020%2F05%2Flinguagem-python.png&imgrefurl=https%3A%2F%2Fdidatica.tech%2Fa-linguagem-python%2F&docid=JHjzV1zLPo60aM&tbnid=56hDAB1ZI3ubiM&vet=12ahUKEwi38561_vKUAxWzq5UCHao2MfkQnPAOegQIHRAB..i&w=250&h=250&hcb=2&ved=2ahUKEwi38561_vKUAxWzq5UCHao2MfkQnPAOegQIHRAB
 
 ---
 
