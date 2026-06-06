@@ -7,10 +7,7 @@
 - ##### 📊 Análise exploratória e visualização de dados 
 - ##### 📈 Criação de dashboards interativos com Power BI 
 - ##### 🗃️ Integração de dados com SQL e automação com Python
-
 ---
-
-
 ### 🚀 Tecnologias & Ferramentas
  Python Pandas Jupyter Power BI SQL
 
@@ -19,7 +16,7 @@
 ### 📂 Projetos em destaque 
 
 
-----
+#
 
 - **📈 Analisar RFV:** 
 ###### A análise RFV (Recência, Frequência e Valor) é uma metodologia de segmentação de clientes que os classifica com base no histórico de compras.
