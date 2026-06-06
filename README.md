@@ -28,6 +28,9 @@
 → Automação em Python desenvolvida para eliminar processos manuais, consolidando múltiplos arquivos Excel e gerando análises elaboradas de forma automática.
 
 Sobre mim: 
+
 🎓 Graduado em Administração de Empresas 
+
 🧠 Foco atual: aplicar técnicas de dados para gerar valor em decisões de negócio 
+
 🔍 Buscando oportunidades como Analista de Dados ou Analista de Business Intelligence 📫 LinkedIn E-mail: olivemic13@yahoo.com
