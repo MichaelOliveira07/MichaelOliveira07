@@ -33,8 +33,9 @@
 ###### Otimização do fluxo de informações comerciais com eliminação do trabalho manual de segmentação de dados, o que garante a chegada ágil das informações aos gestores.
 
 ---
+
 ## Sobre mim: 
-#
+
 - ##### 🎓 Graduado em Administração de Empresas 
 - ##### 🧠 Foco atual: aplicar técnicas de dados para gerar valor em decisões de negócio 
 - ##### 🔍 Buscando oportunidades como Analista de Dados ou Analista de Business Intelligence 
