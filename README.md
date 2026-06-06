@@ -26,13 +26,12 @@
 - **📈 Analisar RFV:** [!Link do projeto](https://github.com/MichaelOliveira07/Analise-RFV-Python.git)
 ###### A análise RFV (Recência, Frequência e Valor) é uma metodologia de segmentação de clientes que os classifica com base no histórico de compras.
 
+- #### 🤖 Automação para consolidação de arquivos Excel e análise de dados: [Link do projeto](https://github.com/MichaelOliveira07/Automacao-Relatorios-email.git)
+###### Automação em Python para eliminar processos manuais, consolidando múltiplos arquivos Excel e gerando análises elaboradas de forma automática.
 
 - #### 🤖 Automação de Relatórios (Excel) com Python | Envio Automático por E-mail: [!Link do projeto](https://github.com/MichaelOliveira07/Automacao-Relatorios-Excel-Python.git)
 ###### Otimização do fluxo de informações comerciais com eliminação do trabalho manual de segmentação de dados, o que garante a chegada ágil das informações aos gestores.
 
-
-- #### 🤖 Automação para consolidação de arquivos Excel e análise de dados:
-###### Automação em Python para eliminar processos manuais, consolidando múltiplos arquivos Excel e gerando análises elaboradas de forma automática.
 ---
 ### Sobre mim: 
 
