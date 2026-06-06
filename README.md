@@ -27,7 +27,7 @@
 ###### A análise RFV (Recência, Frequência e Valor) é uma metodologia de segmentação de clientes que os classifica com base no histórico de compras.
 
 
-- #### 🤖 Automação de Relatórios (Excel) com Python | Envio Automático por E-mail:
+- #### 🤖 Automação de Relatórios (Excel) com Python | Envio Automático por E-mail: ![Link projeto](https://github.com/MichaelOliveira07/Automacao-Relatorios-Excel-Python.git)
 ###### Otimização do fluxo de informações comerciais com eliminação do trabalho manual de segmentação de dados, o que garante a chegada ágil das informações aos gestores.
 
 
